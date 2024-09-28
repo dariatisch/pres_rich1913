@@ -198,6 +198,19 @@ Für die Netzwerkanalyse habe ich den Datensatz der Reichen sowie den Datensatz 
 Um meine Hypothesen zu testen, rechne ich logistische Regressionen, da meine abhängige Variabele binär ist.
 :::
 
+
+
+## Deskritive Beschreibung des Datensatzes
+
+```{r,echo:false}
+source("D:/Seafile/main/---projects---/rich1913/code/01_data_prep.R")
+```
+
+```{r}
+descriptives
+```
+
+
 ## Soziale Mobilität innerhalb der Vermögenselite
 
 <br>
@@ -207,6 +220,18 @@ Um meine Hypothesen zu testen, rechne ich logistische Regressionen, da meine abh
 | Vermögen \>= 6 Mio (N = 875)    | 10%                       |
 | Vermögen \>= 5.5 Mio (N = 1135) | 9%                        |
 | Vermögen \>= 2 Mio (N = 4574)   | 5%                        |
+
+
+
+## Regressionsanalysen
+
+
+
+```{r}
+all_models
+```
+
+
 
 ## Zusammenfassung
 
@@ -262,7 +287,11 @@ dariatisch.github.io
 -   shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
 
-## Geographische Analysen {.scrollable}
+## Geographische Analysen
+
+<iframe src="images/map_berlin_with_clusters.html" width="100%" height="800px">
+
+</iframe>
 
 ```{r}
 

@@ -203,12 +203,13 @@ Um meine Hypothesen zu testen, rechne ich logistische Regressionen, da meine abh
 ## Deskritive Beschreibung des Datensatzes
 
 ```{r,echo:false}
-source("D:/Seafile/main/---projects---/rich1913/code/01_data_prep.R")
+source("D:/Seafile/main/---projects---/rich1913/code/03rich1913_data_analyses.R")
 ```
 
 ```{r}
 descriptives
 ```
+
 
 
 ## Soziale Mobilität innerhalb der Vermögenselite
@@ -220,6 +221,11 @@ descriptives
 | Vermögen \>= 6 Mio (N = 875)    | 10%                       |
 | Vermögen \>= 5.5 Mio (N = 1135) | 9%                        |
 | Vermögen \>= 2 Mio (N = 4574)   | 5%                        |
+
+
+## Familiennnetzwerk
+
+![](images/figure_04.svg){.absolute top="50" left="0" width="100%"}
 
 
 
@@ -237,21 +243,21 @@ all_models
 
 -   Soziale Mobilität innerhalb der Vermögenselite
 
-    -   10 % der 875 reichsten Personen von 1912/14 haben Nachkommen auf der heutigen Reichenliste
+    -   10 % der 875 Reichsten von 1913 haben Nachkommen auf Reichenliste 2019
 
     -   „Hotel“ hat einige Stammgäste
 
 -   Mechanismen der Aufrechterhaltung der Spitzenvermögen im 20. Jahrhundert
 
-    -   Verbindungen in die Wirtschaftselite und Politik
+    -   Verbindungen in die Wirtschaftselite
+    -   Politik irrelevant?
 
     -   Familiäre Netzwerke der Superreichen
 
--   Nächster Schritt
-
-    -   Rolle von geographische Verbindungen: die gute Adresse
-
+-   Nächste Schritte
     -   Familiennetzwerke für gesamte Rudolf Martin Liste
+    -   Regionale politische Ämter
+    -   Rolle von geographische Verbindungen: die gute Adresse
 
 \
 

@@ -53,7 +53,7 @@
     "href": "dgs_koeln.html#deskritive-beschreibung-des-datensatzes",
     "title": "Dynastien des Reichtums: Familiennetzwerke und Vermögenserhalt",
     "section": "Deskritive Beschreibung des Datensatzes",
-    "text": "Deskritive Beschreibung des Datensatzes\n\n\n\nDescriptive Statistics\n\n\nVariable\nMean\nSD\nN\n\n\nincome\n0.32\n0.65\n4574\n\n\nmale\n0.87\n0.34\n4574\n\n\nnoble\n0.19\n0.39\n4574\n\n\npartbuselite\n0.17\n0.37\n4574\n\n\npolitician\n0.01\n0.11\n4574\n\n\nrichtoday\n0.05\n0.21\n4574\n\n\nwealth\n5.52\n12.53\n4574"
+    "text": "Deskritive Beschreibung des Datensatzes\n\n\n\nDescriptive Statistics\n\n\nVariable\nMean\nSD\nN\n\n\nincome\n0.32\n0.65\n4574\n\n\nlargfam\n0.03\n0.18\n4574\n\n\nmale\n0.87\n0.34\n4574\n\n\nnoble\n0.19\n0.39\n4574\n\n\npartbuselite\n0.17\n0.37\n4574\n\n\npolitician\n0.01\n0.11\n4574\n\n\nrichtoday\n0.05\n0.21\n4574\n\n\nwealth\n5.52\n12.53\n4574"
   },
   {
     "objectID": "dgs_koeln.html#soziale-mobilität-innerhalb-der-vermögenselite",
@@ -63,18 +63,25 @@
     "text": "Soziale Mobilität innerhalb der Vermögenselite\n\n\n\n\nIndividuen 1913\nAnteil reicher Nachfahren\n\n\n\n\nVermögen &gt;= 6 Mio (N = 875)\n10%\n\n\nVermögen &gt;= 5.5 Mio (N = 1135)\n9%\n\n\nVermögen &gt;= 2 Mio (N = 4574)\n5%"
   },
   {
+    "objectID": "dgs_koeln.html#familiennnetzwerk",
+    "href": "dgs_koeln.html#familiennnetzwerk",
+    "title": "Dynastien des Reichtums: Familiennetzwerke und Vermögenserhalt",
+    "section": "Familiennnetzwerk",
+    "text": "Familiennnetzwerk"
+  },
+  {
     "objectID": "dgs_koeln.html#regressionsanalysen",
     "href": "dgs_koeln.html#regressionsanalysen",
     "title": "Dynastien des Reichtums: Familiennetzwerke und Vermögenserhalt",
     "section": "Regressionsanalysen",
-    "text": "Regressionsanalysen\n\n\n\n\n\n \nM1\nM2\nM3\n\n\nPredictors\nOR\nOR\nOR\n\n\nBusiness elite\n1.57 *\n\n1.59 *\n\n\nPolitician\n\n0.40 \n0.38 \n\n\nLog. wealth\n1.89 ***\n2.06 ***\n1.94 ***\n\n\nNobility\n2.23 ***\n2.09 ***\n2.28 ***\n\n\nMale\n0.61 *\n0.68 \n0.62 *\n\n\nObservations\n4574\n4574\n4574\n\n\nR2 Tjur\n0.071\n0.070\n0.072\n\n\n* p&lt;0.05   ** p&lt;0.01   *** p&lt;0.001"
+    "text": "Regressionsanalysen\n\n\n\n\n\n \nM1\nM2\nM3\nM4\n\n\nPredictors\nOR\nOR\nOR\nOR\n\n\nBusiness elite\n1.57 *\n\n1.59 *\n1.31 \n\n\nLog. wealth\n1.89 ***\n2.06 ***\n1.94 ***\n1.74 ***\n\n\nNobility\n2.23 ***\n2.09 ***\n2.28 ***\n1.58 \n\n\nMale\n0.61 *\n0.68 \n0.62 *\n\n\n\nPolitician\n\n0.40 \n0.38 \n0.36 \n\n\nLargest fam. network\n\n\n\n2.22 *\n\n\nObservations\n4574\n4574\n4574\n1711\n\n\nR2 Tjur\n0.071\n0.070\n0.072\n0.090\n\n\n* p&lt;0.05   ** p&lt;0.01   *** p&lt;0.001"
   },
   {
     "objectID": "dgs_koeln.html#zusammenfassung",
     "href": "dgs_koeln.html#zusammenfassung",
     "title": "Dynastien des Reichtums: Familiennetzwerke und Vermögenserhalt",
     "section": "Zusammenfassung",
-    "text": "Zusammenfassung\n\nSoziale Mobilität innerhalb der Vermögenselite\n\n10 % der 875 reichsten Personen von 1912/14 haben Nachkommen auf der heutigen Reichenliste\n„Hotel“ hat einige Stammgäste\n\nMechanismen der Aufrechterhaltung der Spitzenvermögen im 20. Jahrhundert\n\nVerbindungen in die Wirtschaftselite und Politik\nFamiliäre Netzwerke der Superreichen\n\nNächster Schritt\n\nRolle von geographische Verbindungen: die gute Adresse\nFamiliennetzwerke für gesamte Rudolf Martin Liste\n\n\n\n\n\nKontakt: tisch@mpifg.de\ndariatisch.github.io\n\n\n\n6% der 1000 reichsten Preußen haben Nachfahren haben, die heute noch auf der Reichenliste stehen.\nFamilie und familiäre Beziehungen Anfang des 20. Jahrhundert haben bedeutende Rolle gespielt\n(Wagner, Boertien, and Gørtz 2020; Toft and Hansen 2022)\nUnd dass die heutige Reichtums- und Sozialstruktur immer noch von familiären Netzwerken von vor über 100 Jahren geprägt sind. “imprinting effect” von damaliger Elite\nNicht die Zugehörigkeit zum Adel erklärt Vermögenserhalt,\nIst dieses Projekt erfolgsversprechend? Ich bin gerade erst am Anfang und an dem Punkt, ob ich Zeit in den weiteren Aufbau der Datenbank stecken soll: Klassifikation des Adels, Religion, regionale Politik, nicht nur Preußen sondern ausweiten auf andere Gebiete. Lohnt sich das?\n\nDies verdeutlicht, dass die Betrachtung von Familien als soziale Gruppen wichtig ist, um soziale Reproduktion zu verstehen. Soziale Reproduktion auf Gruppenebene (Familie): Identifizierung von Familiencharakteristiken notwendig, um Reichtumserhalt zu erklären (Hällsten und Kolk 2020)\nDatenanalyse mit Bankier sowie Unternehmer\nTheorieteil: Wieso sollte Zugehörigkeit zur Machtelite langfristig Reichtumserhalt begünstigen?\n“today’s inequality regime may have been formed many generations back.” (Wagner 2022)\nshifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)"
+    "text": "Zusammenfassung\n\nSoziale Mobilität innerhalb der Vermögenselite\n\n10 % der 875 Reichsten von 1913 haben Nachkommen auf Reichenliste 2019\n„Hotel“ hat einige Stammgäste\n\nMechanismen der Aufrechterhaltung der Spitzenvermögen im 20. Jahrhundert\n\nVerbindungen in die Wirtschaftselite\nPolitik irrelevant?\nFamiliäre Netzwerke der Superreichen\n\nNächste Schritte\n\nFamiliennetzwerke für gesamte Rudolf Martin Liste\nRegionale politische Ämter\nRolle von geographische Verbindungen: die gute Adresse\n\n\n\n\n\nKontakt: tisch@mpifg.de\ndariatisch.github.io\n\n\n\n6% der 1000 reichsten Preußen haben Nachfahren haben, die heute noch auf der Reichenliste stehen.\nFamilie und familiäre Beziehungen Anfang des 20. Jahrhundert haben bedeutende Rolle gespielt\n(Wagner, Boertien, and Gørtz 2020; Toft and Hansen 2022)\nUnd dass die heutige Reichtums- und Sozialstruktur immer noch von familiären Netzwerken von vor über 100 Jahren geprägt sind. “imprinting effect” von damaliger Elite\nNicht die Zugehörigkeit zum Adel erklärt Vermögenserhalt,\nIst dieses Projekt erfolgsversprechend? Ich bin gerade erst am Anfang und an dem Punkt, ob ich Zeit in den weiteren Aufbau der Datenbank stecken soll: Klassifikation des Adels, Religion, regionale Politik, nicht nur Preußen sondern ausweiten auf andere Gebiete. Lohnt sich das?\n\nDies verdeutlicht, dass die Betrachtung von Familien als soziale Gruppen wichtig ist, um soziale Reproduktion zu verstehen. Soziale Reproduktion auf Gruppenebene (Familie): Identifizierung von Familiencharakteristiken notwendig, um Reichtumserhalt zu erklären (Hällsten und Kolk 2020)\nDatenanalyse mit Bankier sowie Unternehmer\nTheorieteil: Wieso sollte Zugehörigkeit zur Machtelite langfristig Reichtumserhalt begünstigen?\n“today’s inequality regime may have been formed many generations back.” (Wagner 2022)\nshifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)"
   },
   {
     "objectID": "dgs_koeln.html#geographische-analysen",

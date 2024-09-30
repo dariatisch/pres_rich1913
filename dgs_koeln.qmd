@@ -173,11 +173,6 @@ Als Datengrundlage dient mir das Jahrbuch des Vermögens und Einkommens der Mill
 -   Wikidata erklären
 :::
 
-## Wikidata
-
-![](images/wikidata_bertha_bild.png){.absolute top="100" left="0" width="70%"}
-
-![](images/wikidata_bertha.png){.absolute top="50" left="350" width="50%"}
 
 ## Daten und Methoden
 
@@ -197,6 +192,14 @@ Für die Netzwerkanalyse habe ich den Datensatz der Reichen sowie den Datensatz 
 
 Um meine Hypothesen zu testen, rechne ich logistische Regressionen, da meine abhängige Variabele binär ist.
 :::
+
+
+
+## Wikidata
+
+![](images/wikidata_bertha_bild.png){.absolute top="100" left="0" width="70%"}
+
+![](images/wikidata_bertha.png){.absolute top="50" left="350" width="50%"}
 
 
 

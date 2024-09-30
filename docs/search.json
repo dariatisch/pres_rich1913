@@ -35,18 +35,18 @@
     "text": "Datengrundlage\n\n\n\n\n\nJahrbuch des Vermögens und Einkommens der Millionäre (Martin 1912)\nDatenbank der Reichstagsabgeordneten (1867 - 1938) 1\nListe der Mitglieder des Preußischen Herrenhauses 2\nListe der Mitglieder des preußischen Abgeordnetenhauses (Mann 1998)\nHeutige Manager Magazin Listen (Bornefeld 2019)\nWikidata\n\n\n\nAls Datengrundlage dient mir das Jahrbuch des Vermögens und Einkommens der Milliönäre von Rudolf Martin ( Preußen).\n\nauf Rudolf Martin eingehen\nManager Magazin\nVerknüpfung wie?\nWikidata erklären\n\n\nhttps://www.reichstag-abgeordnetendatenbank.de/https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Preu%C3%9Fischen_Herrenhauses"
   },
   {
-    "objectID": "dgs_koeln.html#wikidata",
-    "href": "dgs_koeln.html#wikidata",
-    "title": "Dynastien des Reichtums: Familiennetzwerke und Vermögenserhalt",
-    "section": "Wikidata",
-    "text": "Wikidata"
-  },
-  {
     "objectID": "dgs_koeln.html#daten-und-methoden",
     "href": "dgs_koeln.html#daten-und-methoden",
     "title": "Dynastien des Reichtums: Familiennetzwerke und Vermögenserhalt",
     "section": "Daten und Methoden",
     "text": "Daten und Methoden\n\nDaten\n\nN = 4574 reichsten Individuen (&gt;2 Mio) 1912/1913, Rudolf Martin Liste\nVariablen:\n\nheute noch reich (Manager Magazin Liste 2019)\nPolitiker oder verwandt mit Politiker (Abgeordnetenlisten)\nTeil der Wirtschaftselite (Windolf und Marx)\nTeil des größten Verwandtschaftsnetzwerkes (Wikidata)\n\n\nMethoden\n\nDeskriptiv: Netzwerkanalyse, Häufigkeitsauswertungen\nSchließend: Logistische Regression\n\n\n\nFür die Netzwerkanalyse habe ich den Datensatz der Reichen sowie den Datensatz der Politiker mit Wikidata verknüpft und hierbei alle direkten Verwandten gescrapt.\nUm meine Hypothesen zu testen, rechne ich logistische Regressionen, da meine abhängige Variabele binär ist."
+  },
+  {
+    "objectID": "dgs_koeln.html#wikidata",
+    "href": "dgs_koeln.html#wikidata",
+    "title": "Dynastien des Reichtums: Familiennetzwerke und Vermögenserhalt",
+    "section": "Wikidata",
+    "text": "Wikidata"
   },
   {
     "objectID": "dgs_koeln.html#deskritive-beschreibung-des-datensatzes",

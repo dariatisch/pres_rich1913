@@ -223,7 +223,7 @@ descriptives
 | Vermögen \>= 2 Mio (N = 4574)   | 5%                        |
 
 
-## Familiennnetzwerk
+## Familiennetzwerk
 
 ![](images/figure_04.svg){.absolute top="50" left="0" width="100%"}
 

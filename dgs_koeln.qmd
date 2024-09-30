@@ -237,7 +237,9 @@ descriptives
 all_models
 ```
 
-
+::: {style="font-size: 80%; text-align: center"}
+Note: FE for regions included.
+:::
 
 ## Zusammenfassung
 

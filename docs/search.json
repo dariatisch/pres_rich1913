@@ -74,7 +74,7 @@
     "href": "dgs_koeln.html#regressionsanalysen",
     "title": "Dynastien des Reichtums: Familiennetzwerke und Vermögenserhalt",
     "section": "Regressionsanalysen",
-    "text": "Regressionsanalysen\n\n\n\n\n\n \nM1\nM2\nM3\nM4\n\n\nPredictors\nOR\nOR\nOR\nOR\n\n\nBusiness elite\n1.57 *\n\n1.59 *\n1.31 \n\n\nLog. wealth\n1.89 ***\n2.06 ***\n1.94 ***\n1.74 ***\n\n\nNobility\n2.23 ***\n2.09 ***\n2.28 ***\n1.58 \n\n\nMale\n0.61 *\n0.68 \n0.62 *\n\n\n\nPolitician\n\n0.40 \n0.38 \n0.36 \n\n\nLargest fam. network\n\n\n\n2.22 *\n\n\nObservations\n4574\n4574\n4574\n1711\n\n\nR2 Tjur\n0.071\n0.070\n0.072\n0.090\n\n\n* p&lt;0.05   ** p&lt;0.01   *** p&lt;0.001"
+    "text": "Regressionsanalysen\n\n\n\n\n\n \nM1\nM2\nM3\nM4\n\n\nPredictors\nOR\nOR\nOR\nOR\n\n\nBusiness elite\n1.57 *\n\n1.59 *\n1.41 \n\n\nLog. wealth\n1.89 ***\n2.06 ***\n1.94 ***\n1.73 ***\n\n\nNobility\n2.23 ***\n2.09 ***\n2.28 ***\n1.56 \n\n\nMale\n0.61 *\n0.68 \n0.62 *\n0.66 \n\n\nPolitician\n\n0.40 \n0.38 \n0.38 \n\n\nLargest fam. network\n\n\n\n2.27 *\n\n\nObservations\n4574\n4574\n4574\n1711\n\n\nR2 Tjur\n0.071\n0.070\n0.072\n0.091\n\n\n* p&lt;0.05   ** p&lt;0.01   *** p&lt;0.001\n\n\n\n\n\n\n\n\nNote: FE for regions included."
   },
   {
     "objectID": "dgs_koeln.html#zusammenfassung",

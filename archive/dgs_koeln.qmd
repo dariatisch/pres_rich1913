@@ -1,0 +1,320 @@
+---
+title: "Dynastien des Reichtums: Familiennetzwerke und Vermögenserhalt"
+author: "Daria Tisch  <br>  <br> 30. September 2024 <br> DGS Soziale Ungleichheit Tagung <br> <br>  Max-Planck-Institut für Gesellschaftsforschung <br> " 
+#subtitle:  
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    preview-links: auto
+    chalkboard: 
+      boardmarker-width: 5
+  gfm:
+    mermaid-format: svg
+editor: visual
+slide-number:
+  c
+  #https://quarto.org/docs/publishing/github-pages.html#render-to-docs
+bibliography: references.bib
+---
+
+## Forschungsfrage und Motivation
+
+::: {style="font-size: 120%"}
+**Wie schaffen es Familien, ihre Position an der Spitze der Vermögensverteilung über mehr als ein Jahrhundert zu erhalten?**
+:::
+
+::::: columns
+::: {.column width="50%"}
+[So what?]{style="color:#8B0000;font-size: 120%"}
+
+-   Soziale Mobilität innerhalb der Vermögenselite: "each class resembles a hotel \[...\] always full, but always of different people" <small style="vertical-align: middle;">[@schumpeter1972]</small>
+-   Normativ: Leistung und nicht Geburt sollen Vermögensposition beeinflussen <small style="vertical-align: middle;">[@beckert2018]</small>
+-   Sozialer Zusammenhalt gefährdet <small style="vertical-align: middle;">[@toft2022]</small>
+:::
+
+::: {.column width="50%"}
+![](images/hotel2-01.webp)
+:::
+:::::
+
+::: notes
+-   Größeres Projekt zur Beschreibung der Superreichen in Deutschland
+
+-   Artikel 1: Heutige Superreichen
+
+-   Historisch angelegte Projekte, das Vermögen akkumuliert teils über mehrere Generationen
+
+-   Neues Projekt: wie es Familien schaffen, ihre Position an der Spitze der Vermögensverteilung über mehr als 100 Jahre zu erhalten. Ich bin dabei an dem Einfluss der Sozialstruktur interessiert und insbesondere wie familiäre Beziehungen und die Zugehörigkeit zum Adel zum Reichtumserhalt beitragen.
+
+-   Warum ist es relevant, sich anzuschauen, ob und wie die Vermögenselite ihre Position über ein Jahrhundert hinweg erhält?
+
+-   1.Die Rolle der Familie als ökonomische Einheit zu verstehen. Spielt die Familie eine relevante Rolle bei der (Re)produktion von Reichtum und der Vermögenselite?
+
+-   2.Normative Begründung. Leistungsgesellschaft: Leistung und nicht Geburt die Position in der Vermögensverteilung bestimmen.
+
+-   3.ökonomische Ressourcen ineffizient verteilt. keine personelle Veränderung innerhalb der Elite gibt--\> soziale Schließung --\> soziale Probleme nicht mehr versteht und so den sozialen Zusammenhalt gefährdet.
+:::
+
+## Bisherige Forschung
+
+-   Familie als relevante ökonomische Einheit <small style="vertical-align: middle;">[@farrell1993a]</small>
+
+-   Intergenerationale Vermögensmobilität niedrig <small style="vertical-align: middle;">[@hansen2014; @clark2015; @pfeffer2018; @hällsten2020; @toft2022]</small>
+
+    -   Trotz institutionellen Veränderungen: Vermögensmobilität konstant in GB (1858-2012) <small style="vertical-align: middle;">[@clark2015] </small>
+
+    -   Persistenz in Vermögen, Einkommen und Elitenberufe in Italien <small style="vertical-align: middle;"> [@barone2020]</small>
+
+    -   In D: Etwa 8 Prozent der heutigen 1000 Vermögen lassen sich auf Vermögen aus den Reichenlisten von 1913 zurückführen <small style="vertical-align: middle;"> [@tisch2023]</small>
+
+→ Forschungslücke: Mechanismen des Vermögenserhalts von Familien, z.B. familiäre Verflechtungen innerhalb der Elite
+
+::: notes
+Was können wir aus bisheriger Forschung über den Reichtumserhalt lernen?
+
+-   Vermögensmobilität niedrig, vor allem aber am oberen und unteren Ende der Vermögensverteilung.
+
+-   Registerdaten (Norwegen) und Umfragedaten (bis zu drei Generationen).
+
+-   Seltenen Nachnamen, um Vermögensmobilität über mehrere Generationen oder sogar Jahrhunderte zu schätzen.
+
+-   Clark & Cummins schauen sich Vermögensmobilität in GB an und zeigen, dass diese trotz institutioneller Veränderungen in den letzten 5 Generationen konstant blieb. \[Wenn er Nachnamen nach Vermögenshöhe gruppiert zeigt sich geringere Mobilität als wenn er einzelne Nachnamen betrachtet\]
+
+-   Barone & Mocetti schauen sich die Stadt Florenz an und zeigen eine enorme Persistenz in Einkommen, Vermögen und Eliteberufen zwischen 1427 und 2011.
+
+Aber was sind die sozialstrukturellen Mechanismen des Vermögenserhaltes?
+
+Mein BEitrag:
+
+1.  inwiefern soziale Mobilität innerhalb der Vermögenselite in Deutschland?
+2.  Persistenz von Reichtum durch sozialstrukturelle Faktoren erklären.
+3.  Familiäre Verflechtungen innerhalb der Vermögens und politischen Elite
+4.  Indem ich mir die Verbindung von Vermögenselite und politischer Elite anschaue, trage ich auch zu einem wichtigsten Thema der Elitenliteratur, nämlich ob es eine homogene Elite gab.
+5.  shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
+:::
+
+## Theoretischer Hintergrund
+
+-   Familie als zentrale Institution für die Reproduktion sozialer Ungleichheit <small style="vertical-align: middle;">[@beckert2022; @obrien2023; @pfeffer2018; @tisch2023]</small>
+-   Reproduktion der Vermögenselite
+    -   Direkte intergenerationale Transfers
+    -   "Opportunity hoarding" <small style="vertical-align: middle;">[@tilly1998]</small>
+    -   Soziale Schließung durch Heirat <small style="vertical-align: middle;">[@farrell1993]</small>
+    -   Wirtschaftliche Allianzbildung <small style="vertical-align: middle;">[@zeitlin1974]</small>
+
+![](images/Picture1.png)
+
+::: notes
+:::
+
+## Hypothesen
+
+**Hypothese 1: [Mitglieder der Wirtschaftselite haben mit größerer Wahrscheinlichkeit Nachkommen auf der heutigen Reichenliste als Nicht-Mitglieder]{style="color:#8B0000"}**
+
+→ Sozialisation in Unternehmerfamilien und wirtschaftliche Allianzen <small style="vertical-align: middle;">[@augustine2003]</small>
+
+**Hypothese 2: [Mitglieder des größten Familiennetzwerks haben mit größerer Wahrscheinlichkeit Nachkommen auf der heutigen Liste der Reichen als Nicht-Mitglieder]{style="color:#8B0000"}**
+
+→ Strategische Familienbündnisse zur Festigung der sozialen Position <small style="vertical-align: middle;">[@augustine1994; @farrell1993; @zeitlin1974]</small>
+
+**Hypothese 3: [Mitglieder der politischen Elite haben mit höherer Wahrscheinlichkeit Nachkommen auf der heutigen Reichenliste als Nicht-Mitglieder]{style="color:#8B0000"}**
+
+::: notes
+-   Hypothesen
+
+-   Argument: zum Erhalt der Position an der Spitze der Vermögensverteilung sind strategische Allianzen notwendig.
+
+    -   gutes familiäres Netzwerk. Genauso wie für ein Individuum im Lebenslauf ein gutes Netzwerk wichtig ist, um Vermögen zu akkumulieren, erwarte ich, dass es auch für Familien entscheinend ist, ein gutes familiäres Netzwerk zu haben.
+
+    -   "imprinting effect" der Zugehörigkeit zum Kern der Elite.
+
+    -   Qualitative Studien wie die von Betty Farrell für Bosten im 19. Jahrhundert deuten auf die Wichtigkeit des familiären Netzwerkes hin. Und ich möchte mir eben anschauen, ob ein gutes Familiennetzwerk Anfang des 20. Jhr langfristige Folgen hat.
+
+    -   Worin besteht der imprinting Effekt? Name?
+
+    -   Höhe des Reichtums mit de Chancen des Reichtumserhalt positiv zusammenhängt. Charles Wright Mills argumentiert in seinem Buch "The power elite", dass Reichtum einen Akkumulationsvorteil mit sich bringt. Je strategischer die ökonomische Position ist und desto reicher ein Mensch, desto leichter ist es, noch mehr Vermögen zu akkumulieren: "The more he has, the greater his credit"
+:::
+
+## Datengrundlage {.scrollable}
+
+::::: columns
+::: {.column width="30%"}
+![](images/martin.png){.absolute top="100" left="0" width="270"}
+:::
+
+::: {.column width="70%"}
+-   Jahrbuch des Vermögens und Einkommens der Millionäre [@martin1912]
+
+-   Datenbank der Reichstagsabgeordneten (1867 - 1938) [^1]
+
+-   Liste der Mitglieder des Preußischen Herrenhauses [^2]
+
+-   Liste der Mitglieder des preußischen Abgeordnetenhauses [@mann1998]
+
+-   Heutige Manager Magazin Listen (Bornefeld 2019)
+
+-   Wikidata
+:::
+:::::
+
+[^1]: https://www.reichstag-abgeordnetendatenbank.de/
+
+[^2]: https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Preu%C3%9Fischen_Herrenhauses
+
+::: notes
+Als Datengrundlage dient mir das Jahrbuch des Vermögens und Einkommens der Milliönäre von Rudolf Martin ( Preußen).
+
+-   auf Rudolf Martin eingehen
+
+-   Manager Magazin
+
+-   Verknüpfung wie?
+
+-   Wikidata erklären
+:::
+
+
+## Daten und Methoden
+
+-   Daten
+    -   N = 4574 reichsten Individuen (\>2 Mio) 1912/1913, Rudolf Martin Liste
+    -   Variablen:
+        -   heute noch reich (Manager Magazin Liste 2019)
+        -   Politiker oder verwandt mit Politiker (Abgeordnetenlisten)
+        -   Teil der Wirtschaftselite (Windolf und Marx)
+        -   Teil des größten Verwandtschaftsnetzwerkes (Wikidata)
+-   Methoden
+    -   Deskriptiv: Netzwerkanalyse, Häufigkeitsauswertungen
+    -   Schließend: Logistische Regression
+
+::: notes
+Für die Netzwerkanalyse habe ich den Datensatz der Reichen sowie den Datensatz der Politiker mit Wikidata verknüpft und hierbei alle direkten Verwandten gescrapt.
+
+Um meine Hypothesen zu testen, rechne ich logistische Regressionen, da meine abhängige Variabele binär ist.
+:::
+
+
+
+## Wikidata
+
+![](images/wikidata_bertha_bild.png){.absolute top="100" left="0" width="70%"}
+
+![](images/wikidata_bertha.png){.absolute top="50" left="350" width="50%"}
+
+
+
+## Deskritive Beschreibung des Datensatzes
+
+```{r,echo:false}
+source("D:/Seafile/main/---projects---/rich1913/code/03rich1913_data_analyses.R")
+```
+
+```{r}
+descriptives
+```
+
+
+
+## Soziale Mobilität innerhalb der Vermögenselite
+
+<br>
+
+| Individuen 1913                 | Anteil reicher Nachfahren |
+|---------------------------------|---------------------------|
+| Vermögen \>= 6 Mio (N = 875)    | 10%                       |
+| Vermögen \>= 5.5 Mio (N = 1135) | 9%                        |
+| Vermögen \>= 2 Mio (N = 4574)   | 5%                        |
+
+
+## Familiennetzwerk
+
+![](images/figure_04.svg){.absolute top="50" left="0" width="100%"}
+
+
+
+## Regressionsanalysen
+
+
+
+```{r}
+all_models
+```
+
+::: {style="font-size: 80%; text-align: center"}
+Note: FE for regions included.
+:::
+
+## Zusammenfassung
+
+-   Soziale Mobilität innerhalb der Vermögenselite
+
+    -   10 % der 875 Reichsten von 1913 haben Nachkommen auf Reichenliste 2019
+
+    -   „Hotel“ hat einige Stammgäste
+
+-   Mechanismen der Aufrechterhaltung der Spitzenvermögen im 20. Jahrhundert
+
+    -   Verbindungen in die Wirtschaftselite
+    -   Politik irrelevant?
+
+    -   Familiäre Netzwerke der Superreichen
+
+-   Nächste Schritte
+    -   Familiennetzwerke für gesamte Rudolf Martin Liste
+    -   Regionale politische Ämter
+    -   Rolle von geographische Verbindungen: die gute Adresse
+
+\
+
+::: {style="font-size: 120%; text-align: center"}
+Kontakt: tisch\@mpifg.de
+
+dariatisch.github.io
+:::
+
+::: notes
+-   6% der 1000 reichsten Preußen haben Nachfahren haben, die heute noch auf der Reichenliste stehen.
+
+-   Familie und familiäre Beziehungen Anfang des 20. Jahrhundert haben bedeutende Rolle gespielt
+
+-   [@wagner2020; @toft2022]
+
+-   Und dass die heutige Reichtums- und Sozialstruktur immer noch von familiären Netzwerken von vor über 100 Jahren geprägt sind. "imprinting effect" von damaliger Elite
+
+-   Nicht die Zugehörigkeit zum Adel erklärt Vermögenserhalt,
+
+-   Ist dieses Projekt erfolgsversprechend? Ich bin gerade erst am Anfang und an dem Punkt, ob ich Zeit in den weiteren Aufbau der Datenbank stecken soll: Klassifikation des Adels, Religion, regionale Politik, nicht nur Preußen sondern ausweiten auf andere Gebiete. Lohnt sich das?
+
+-   
+
+-   Dies verdeutlicht, dass die Betrachtung von Familien als soziale Gruppen wichtig ist, um soziale Reproduktion zu verstehen. Soziale Reproduktion auf Gruppenebene (Familie): Identifizierung von Familiencharakteristiken notwendig, um Reichtumserhalt zu erklären (Hällsten und Kolk 2020)
+
+-   Datenanalyse mit Bankier sowie Unternehmer
+
+-   Theorieteil: Wieso sollte Zugehörigkeit zur Machtelite langfristig Reichtumserhalt begünstigen?
+
+-   "today's inequality regime may have been formed many generations back." (Wagner 2022)
+
+-   shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
+:::
+
+## Geographische Analysen
+
+<iframe src="images/map_berlin_with_clusters.html" width="100%" height="800px">
+
+</iframe>
+
+```{r}
+
+
+# library(leaflet)
+# 
+# leaflet() %>%
+#   addTiles() %>%  # Add default OpenStreetMap map tiles
+#   addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
+```
+
+## References
+
+::: {#refs}
+:::

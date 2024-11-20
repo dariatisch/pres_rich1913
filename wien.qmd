@@ -1,6 +1,6 @@
 ---
-title: "Dynasties of wealth: family networks and wealth preservation"
-author: "Daria Tisch  <br>  <br> 21 November 2024 <br>  <br> <br>  Max Planck Institute for the Study of Societies <br> " 
+title: "Dynasties of wealth:  <br> Family networks and wealth preservation"
+author: "Daria Tisch  <br>  <br> 22 November 2024 <br>  <br> <br>  Max Planck Institute for the Study of Societies <br> " 
 #subtitle:  
 format: 
   revealjs:

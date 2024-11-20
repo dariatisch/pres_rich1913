@@ -81,7 +81,7 @@ What can we learn from previous research on wealth preservation? - Wealth mobili
 
 → Socialisation in business families and economic alliances <small style="vertical-align: middle;">[@augustine2003]</small>
 
-**Hypothesis 2: [Members of the largest family network are more likely to have descendants on today's rich list than non-members]{style="color:#8B0000"}**
+**Hypothesis 2: [The more interconnected a rich individual is with other rich individuals through familial ties, the greater the likelihood their descendants will appear on today’s rich lists]{style="color:#8B0000"}**
 
 → Strategic family alliances to consolidate the social position <small style="vertical-align: middle;">[@augustine1994; @farrell1993; @zeitlin1974]</small>
 
@@ -105,9 +105,9 @@ What can we learn from previous research on wealth preservation? - Wealth mobili
 
 -   Database of members of the Reichstag (1867 - 1938) [^1]
 
--   List of members of the Prussian House of Lords [^2]
+-   *List of members of the Prussian House of Lords* [^2]
 
--   List of members of the Prussian House of Representatives [@mann1998]
+-   *List of members of the Prussian House of Representatives [@mann1998]*
 
 -   Today's Manager Magazin lists (Bornefeld 2019)
 
@@ -151,18 +151,6 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 
 ![](images/wikidata_bertha.png){.absolute top="50" left="350" width="50%"}
 
-## Descriptive statistics
-
-```{r,echo:false}
-source("D:/Seafile/main/---projects---/rich1913/code/03rich1913_data_analyses.R")
-```
-
-```{r}
-descriptives
-```
-
-
-
 
 ## Social mobility within the wealthy elite
 
@@ -175,23 +163,45 @@ descriptives
 | **Wealth \>= 3 Mio (N = 2520)** | **6%**                         |
 | Wealth \>= 2 Mio (N = 4574)     | 5%                             |
 
-## Family network  (N=975)
+## Family network analysis
 
+-   975 individuals with Wikidata ID, from 2520 (wealth\>=3 Mio) (39%)
+-   411 rich individuals with at least one relative in Wikidata
+-   Largest family web includes 145 rich individuals (24 times as many as a random sample of German wikidata humans born in the same cohorts)
+
+## Rich family networks
 ![](images/graph1.jpeg){.absolute top="50" left="0" width="100%"}
+<div style="position: absolute; top: 30%; left: 80%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;">
+(975 Wikidata, 411 relative, 145 largest network)
+</div>
 
-## Family network, random individuals (N=975)
+::: notes
+-   975 individuals with Wikidata ID, from 2520 (wealth\>=3 Mio) (39%)
+-   411 rich individuals with at least one relative in Wikidata
+-   Largest family web includes 145 rich individuals (24 times as many as a random sample of German wikidata humans born in the same cohorts)
+:::
+## Random family network
 
 ![](images/graph_randomC.svg){.absolute top="50" left="0" width="100%"}
+<div style="position: absolute; top: 30%; left: 80%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;">
+(N = 975 random Germans, same cohort, 5-8 in largest network)
+</div>
+
+
 
 ## Regression results
+```{r,echo:false}
+source("D:/Seafile/main/---projects---/rich1913/code/03rich1913_data_analyses.R")
+```
 
 ```{r}
 coefplot
 ```
 
-
 <!-- ::: {style="font-size: 80%; text-align: center"} -->
+
 <!-- Note: FE for regions included. -->
+
 <!-- ::: -->
 
 ## Summary
@@ -251,7 +261,7 @@ dariatisch.github.io
 
 ## Geographical analyses
 
-<iframe src="images/map_berlin_with_clusters.html" width="100%" height="800px">
+<iframe src="images/map_berlin.html" width="100%" height="800px">
 
 </iframe>
 
@@ -265,12 +275,20 @@ dariatisch.github.io
 #   addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
 ```
 
-
 ## Regression analyses
 
 ```{r}
 all_models
 ```
+
+
+## Descriptive statistics
+
+
+```{r}
+descriptives
+```
+
 ## References
 
 ::: {#refs}

@@ -123,7 +123,7 @@
     "href": "wien.html#hypotheses",
     "title": "Dynasties of wealth: family networks and wealth preservation",
     "section": "Hypotheses",
-    "text": "Hypotheses\nHypothesis 1: Members of the economic elite are more likely to have descendants on today’s rich list than non-members\n→ Socialisation in business families and economic alliances (Augustine 2003)\nHypothesis 2: Members of the largest family network are more likely to have descendants on today’s rich list than non-members\n→ Strategic family alliances to consolidate the social position (Augustine 1994; Farrell 1993b; Zeitlin 1974)\nHypothesis 3: Members of the political elite are more likely to have descendants on today’s rich list than non-members\n→ stealth politics (Page, Seawright, and Lacombe 2018)\n\n\nHypotheses - argument: strategic alliances are necessary to maintain the position at the top of the wealth distribution. - Good family network. Just as a good network is important for an individual to accumulate wealth over the course of their life, I expect that it is also important for families to have a good family network. - “imprinting effect” of belonging to the core of the elite. - Qualitative studies such as Betty Farrell’s for Boston in the 19th century point to the importance of the family network. And I would like to look at whether a good family network at the beginning of the 20th century has long-term consequences. - What is the imprinting effect? Name? - The imprinting effect is a positive correlation between the level of wealth and the chances of wealth preservation. Charles Wright Mills argues in his book “The power elite” that wealth brings with it an accumulation advantage. The more strategic the economic position and the richer a person is, the easier it is to accumulate even more wealth: “The more he has, the greater his credit”"
+    "text": "Hypotheses\nHypothesis 1: Members of the economic elite are more likely to have descendants on today’s rich list than non-members\n→ Socialisation in business families and economic alliances (Augustine 2003)\nHypothesis 2: The more interconnected a rich individual is with other rich individuals through familial ties, the greater the likelihood their descendants will appear on today’s rich lists\n→ Strategic family alliances to consolidate the social position (Augustine 1994; Farrell 1993b; Zeitlin 1974)\nHypothesis 3: Members of the political elite are more likely to have descendants on today’s rich list than non-members\n→ stealth politics (Page, Seawright, and Lacombe 2018)\n\n\nHypotheses - argument: strategic alliances are necessary to maintain the position at the top of the wealth distribution. - Good family network. Just as a good network is important for an individual to accumulate wealth over the course of their life, I expect that it is also important for families to have a good family network. - “imprinting effect” of belonging to the core of the elite. - Qualitative studies such as Betty Farrell’s for Boston in the 19th century point to the importance of the family network. And I would like to look at whether a good family network at the beginning of the 20th century has long-term consequences. - What is the imprinting effect? Name? - The imprinting effect is a positive correlation between the level of wealth and the chances of wealth preservation. Charles Wright Mills argues in his book “The power elite” that wealth brings with it an accumulation advantage. The more strategic the economic position and the richer a person is, the easier it is to accumulate even more wealth: “The more he has, the greater his credit”"
   },
   {
     "objectID": "wien.html#data-basis",
@@ -200,7 +200,7 @@
     "href": "wien.html#descriptive-statistics",
     "title": "Dynasties of wealth: family networks and wealth preservation",
     "section": "Descriptive statistics",
-    "text": "Descriptive statistics\n\n\n\nDescriptive Statistics\n\n\nVariable\nMean\nSD\nN\n\n\nincome\n0.47\n0.85\n2520\n\n\nlargfam\n0.06\n0.24\n2520\n\n\nmale\n0.88\n0.33\n2520\n\n\nnoble\n0.22\n0.42\n2520\n\n\nnonNAwiki\n0.40\n0.49\n2520\n\n\npartbuselite\n0.24\n0.43\n2520\n\n\npolitician\n0.02\n0.15\n2520\n\n\nrichtoday\n0.06\n0.24\n2520\n\n\nstillGermany\n0.89\n0.32\n2520\n\n\nwealth\n8.08\n16.45\n2520"
+    "text": "Descriptive statistics\n\n\n\nDescriptive Statistics\n\n\nVariable\nMean\nSD\nN\n\n\nincome\n0.47\n0.85\n2520\n\n\nlargfam\n0.06\n0.24\n2520\n\n\nmale\n0.88\n0.33\n2520\n\n\nnoble\n0.22\n0.42\n2520\n\n\nnonNAwiki\n0.43\n0.50\n2520\n\n\npartbuselite\n0.24\n0.43\n2520\n\n\npolitician\n0.03\n0.16\n2520\n\n\nrichtoday\n0.06\n0.24\n2520\n\n\nstillGermany\n0.89\n0.32\n2520\n\n\nwealth\n8.08\n16.45\n2520"
   },
   {
     "objectID": "wien.html#social-mobility-within-the-wealthy-elite",
@@ -221,7 +221,7 @@
     "href": "wien.html#regression-analyses",
     "title": "Dynasties of wealth: family networks and wealth preservation",
     "section": "Regression analyses",
-    "text": "Regression analyses\n\n\n\n\n\n \nM1\nM2\nM3\nM4\n\n\nPredictors\nOdds Ratios\nOdds Ratios\nEstimates\nEstimates\n\n\nLargest fam. network\n2.61 ***\n2.67 ***\n0.08 ***\n0.08 ***\n\n\nBusiness elite\n1.45 \n1.63 **\n0.02 \n0.02 **\n\n\nPolitician\n0.43 \n0.41 \n-0.05 \n-0.05 \n\n\nLog. wealth\n1.84 ***\n1.92 ***\n0.05 ***\n0.04 ***\n\n\nMale\n0.62 *\n0.55 **\n-0.03 *\n-0.03 **\n\n\nRegion still Germany\n5.86 ***\n5.15 ***\n0.06 ***\n0.04 ***\n\n\nObservations\n2520\n4574\n2520\n4574\n\n\nR2 Tjur\n0.042\n0.041\n0.037 / 0.035\n0.036 / 0.035\n\n\n* p&lt;0.05   ** p&lt;0.01   *** p&lt;0.001"
+    "text": "Regression analyses\n\n\n\n\n\n \nM1\nM2\nM3\nM4\n\n\nPredictors\nOdds Ratios\nOdds Ratios\nEstimates\nEstimates\n\n\nCloseness to rich\n1.01 **\n\n0.00 **\n\n\n\nEigen centrality\n\n1.30 **\n\n0.05 ***\n\n\nBusiness elite\n1.53 *\n1.65 *\n0.02 *\n0.03 *\n\n\nPolitican in family\n1.17 \n1.03 \n0.01 \n-0.00 \n\n\nLog. wealth\n1.73 ***\n1.73 ***\n0.05 ***\n0.05 ***\n\n\nNobility\n2.43 ***\n2.13 ***\n0.06 ***\n0.05 ***\n\n\nMale\n0.62 *\n0.65 \n-0.03 *\n-0.03 \n\n\nRegion still Germany\n6.91 ***\n6.55 ***\n0.07 ***\n0.07 ***\n\n\nObservations\n2520\n2520\n2520\n2520\n\n\nR2 Tjur\n0.048\n0.054\n0.044 / 0.041\n0.053 / 0.050\n\n\n* p&lt;0.05   ** p&lt;0.01   *** p&lt;0.001"
   },
   {
     "objectID": "wien.html#summary",
@@ -256,7 +256,7 @@
     "href": "wien.html#family-network-random-individuals-n975",
     "title": "Dynasties of wealth: family networks and wealth preservation",
     "section": "Family network, random individuals (N=975)",
-    "text": "Family network, random individuals (N=975)"
+    "text": "Family network, random individuals (N=975)\n\n\n(N = 975 random Germans from same cohort in Wikidata, 5-8 largest network)"
   },
   {
     "objectID": "wien.html#regression-analyses-1",
@@ -271,5 +271,40 @@
     "title": "Dynasties of wealth: family networks and wealth preservation",
     "section": "Regression results",
     "text": "Regression results"
+  },
+  {
+    "objectID": "wien.html#family-network-analysis",
+    "href": "wien.html#family-network-analysis",
+    "title": "Dynasties of wealth: family networks and wealth preservation",
+    "section": "Family network analysis",
+    "text": "Family network analysis\n\n975 individuals with Wikidata ID, from 2520 (wealth&gt;=3 Mio) (39%)\n411 rich individuals with at least one relative in Wikidata\nLargest family web includes 145 rich individuals (24 times as many as a random sample of German wikidata humans born in the same cohorts)"
+  },
+  {
+    "objectID": "wien.html#family-network-975-wikidata-411-relative-145-largest-network",
+    "href": "wien.html#family-network-975-wikidata-411-relative-145-largest-network",
+    "title": "Dynasties of wealth: family networks and wealth preservation",
+    "section": "Family network (975 Wikidata, 411 relative, 145 largest network)",
+    "text": "Family network (975 Wikidata, 411 relative, 145 largest network)\n\n\n(975 Wikidata, 411 relative, 145 largest network)\n\n\n\n975 individuals with Wikidata ID, from 2520 (wealth&gt;=3 Mio) (39%)\n411 rich individuals with at least one relative in Wikidata\nLargest family web includes 145 rich individuals (24 times as many as a random sample of German wikidata humans born in the same cohorts)"
+  },
+  {
+    "objectID": "wien.html#family-networks",
+    "href": "wien.html#family-networks",
+    "title": "Dynasties of wealth: family networks and wealth preservation",
+    "section": "Family networks",
+    "text": "Family networks\n\n\n(975 Wikidata, 411 relative, 145 largest network)\n\n\n\n975 individuals with Wikidata ID, from 2520 (wealth&gt;=3 Mio) (39%)\n411 rich individuals with at least one relative in Wikidata\nLargest family web includes 145 rich individuals (24 times as many as a random sample of German wikidata humans born in the same cohorts)"
+  },
+  {
+    "objectID": "wien.html#rich-family-networks",
+    "href": "wien.html#rich-family-networks",
+    "title": "Dynasties of wealth: family networks and wealth preservation",
+    "section": "Rich family networks",
+    "text": "Rich family networks\n\n\n(975 Wikidata, 411 relative, 145 largest network)\n\n\n\n975 individuals with Wikidata ID, from 2520 (wealth&gt;=3 Mio) (39%)\n411 rich individuals with at least one relative in Wikidata\nLargest family web includes 145 rich individuals (24 times as many as a random sample of German wikidata humans born in the same cohorts)"
+  },
+  {
+    "objectID": "wien.html#random-family-network",
+    "href": "wien.html#random-family-network",
+    "title": "Dynasties of wealth: family networks and wealth preservation",
+    "section": "Random family network",
+    "text": "Random family network\n\n\n(N = 975 random Germans, same cohort, 5-8 in largest network)"
   }
 ]

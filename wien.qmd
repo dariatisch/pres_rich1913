@@ -87,7 +87,7 @@ What can we learn from previous research on wealth preservation? - Wealth mobili
 
 **Hypothesis 3: [Members of the political elite are more likely to have descendants on today's rich list than non-members]{style="color:#8B0000"}**
 
-→ stealth politics <small style="vertical-align: middle;">[@page2018]</small>
+→ Stealth politics <small style="vertical-align: middle;">[@page2018]</small>
 
 ::: notes
 -   Hypotheses - argument: strategic alliances are necessary to maintain the position at the top of the wealth distribution. - Good family network. Just as a good network is important for an individual to accumulate wealth over the course of their life, I expect that it is also important for families to have a good family network. - "imprinting effect" of belonging to the core of the elite. - Qualitative studies such as Betty Farrell's for Boston in the 19th century point to the importance of the family network. And I would like to look at whether a good family network at the beginning of the 20th century has long-term consequences. - What is the imprinting effect? Name? - The imprinting effect is a positive correlation between the level of wealth and the chances of wealth preservation. Charles Wright Mills argues in his book "The power elite" that wealth brings with it an accumulation advantage. The more strategic the economic position and the richer a person is, the easier it is to accumulate even more wealth: "The more he has, the greater his credit"
@@ -129,15 +129,14 @@ The yearbook of the wealth and income of billionaires by Rudolf Martin (Prussia)
     -   Rudolf Martin rich list, 1913
         -   \>2 Mio: N = 4574 richest individuals (top 0.007% of the population)
         -   **\>3 Mio: N = 2520 richest individuals (top 0.003% of population)**
-        -   \> 5.5 Mio = 1135 richest individuals (top 0.002% of population)
-    -   Variablen:
+    -   Variables:
         -   still rich today (Manager Magazin List 2019, top 0.01%)
         -   Politician or related to politician (members of parliament)
         -   Part of the economic elite (Windolf und Marx)
-        -   Part of the largest family network (Wikidata)
+        -   Closeness and eigen centrality  (geneological Wikidata)
 -   Methods
-    -   Descriptive: Network analysis, frequency analyses
-    -   Logistic regression
+    -   Network analyses
+    -   Regression analyses
 
 ::: notes
 For the network analysis, I linked the data set of the rich and the data set of the politicians with Wikidata and scraped all direct relatives. To test my hypotheses, I run logistic regressions, since my dependent variable is binary.
@@ -183,7 +182,7 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 ## Random family network
 
 ![](images/graph_randomC.svg){.absolute top="50" left="0" width="100%"}
-<div style="position: absolute; top: 30%; left: 80%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;">
+<div style="position: absolute; top: 25%; left: 80%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;">
 (N = 975 random Germans, same cohort, 5-8 in largest network)
 </div>
 

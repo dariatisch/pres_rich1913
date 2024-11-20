@@ -101,7 +101,7 @@ What can we learn from previous research on wealth preservation? - Wealth mobili
 :::
 
 ::: {.column width="70%"}
--   Jahrbuch des Vermögens und Einkommens der Millionäre [@martin1912]
+-   Jahrbuch des Vermögens und Einkommens der Millionäre [@martin1912; @gajek2014]
 
 -   Database of members of the Reichstag (1867 - 1938) [^1]
 
@@ -133,7 +133,7 @@ The yearbook of the wealth and income of billionaires by Rudolf Martin (Prussia)
         -   still rich today (Manager Magazin List 2019, top 0.01%)
         -   Politician or related to politician (members of parliament)
         -   Part of the economic elite (Windolf und Marx)
-        -   Closeness and eigen centrality  (geneological Wikidata)
+        -   Closeness and eigen centrality (geneological Wikidata)
 -   Methods
     -   Network analyses
     -   Regression analyses
@@ -149,7 +149,6 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 ![](images/wikidata_bertha_bild.png){.absolute top="100" left="0" width="70%"}
 
 ![](images/wikidata_bertha.png){.absolute top="50" left="350" width="50%"}
-
 
 ## Social mobility within the wealthy elite
 
@@ -169,26 +168,29 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 -   Largest family web includes 145 rich individuals (24 times as many as a random sample of German wikidata humans born in the same cohorts)
 
 ## Rich family networks
+
 ![](images/graph1.jpeg){.absolute top="50" left="0" width="100%"}
-<div style="position: absolute; top: 30%; left: 80%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;">
+
+::: {style="position: absolute; top: 30%; left: 80%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;"}
 (975 Wikidata, 411 relative, 145 largest network)
-</div>
+:::
 
 ::: notes
 -   975 individuals with Wikidata ID, from 2520 (wealth\>=3 Mio) (39%)
 -   411 rich individuals with at least one relative in Wikidata
 -   Largest family web includes 145 rich individuals (24 times as many as a random sample of German wikidata humans born in the same cohorts)
 :::
+
 ## Random family network
 
 ![](images/graph_randomC.svg){.absolute top="50" left="0" width="100%"}
-<div style="position: absolute; top: 25%; left: 80%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;">
+
+::: {style="position: absolute; top: 25%; left: 80%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;"}
 (N = 975 random Germans, same cohort, 5-8 in largest network)
-</div>
-
-
+:::
 
 ## Regression results
+
 ```{r,echo:false}
 source("D:/Seafile/main/---projects---/rich1913/code/03rich1913_data_analyses.R")
 ```
@@ -280,9 +282,7 @@ dariatisch.github.io
 all_models
 ```
 
-
 ## Descriptive statistics
-
 
 ```{r}
 descriptives

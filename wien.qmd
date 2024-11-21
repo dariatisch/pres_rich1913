@@ -27,9 +27,10 @@ bibliography: references.bib
 ::: {.column width="50%"}
 [So what?]{style="color:#8B0000;font-size: 120%"}
 
--   Social mobility within the wealthy elite: "each class resembles a hotel \[...\] always full, but always of different people" <small style="vertical-align: middle;">[@schumpeter1972]</small>
--   Normative: Performance and not birth should influence asset position <small style="vertical-align: middle;">[@beckert2018]</small>
+-   Social mobility within the wealt elite: "each class resembles a hotel \[...\] always full, but always of different people" <small style="vertical-align: middle;">[@schumpeter1972]</small>
+-   Normative: Performance and not birth should influence wealth position <small style="vertical-align: middle;">[@beckert2018]</small>
 -   Social cohesion at risk <small style="vertical-align: middle;">[@toft2022]</small>
+-   Social background of wealth elite matters for politics we get <small style="vertical-align: middle;">[@reeves2024]</small>
 :::
 
 ::: {.column width="50%"}
@@ -61,7 +62,7 @@ bibliography: references.bib
 What can we learn from previous research on wealth preservation? - Wealth mobility is low, especially at the upper and lower ends of the wealth distribution. - Register data (Norway) and survey data (up to three generations). - Rare surnames to estimate wealth mobility over several generations or even centuries. - Clark & Cummins look at wealth mobility in the UK and show that it has remained constant over the last 5 generations despite institutional changes. \[When he groups surnames by wealth level, there is less mobility than when he looks at individual surnames\] - Barone & Mocetti look at the city of Florence and show an enormous persistence in income, wealth and elite occupations between 1427 and 2011. But what are the socio-structural mechanisms of wealth preservation? My contribution: 1. to what extent is there social mobility within the wealth elite in Germany? 2. explain the persistence of wealth through socio-structural factors. 3. family ties within the wealth and political elite 4. by looking at the connection between the wealth elite and the political elite, I also contribute to one of the most important topics of elite literature, namely whether there was a homogeneous elite. 5. shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
 
-## Theoretical background
+## Reproduction of the wealth elite
 
 -   Family as a central institution for the reproduction of social inequality <small style="vertical-align: middle;">[@beckert2022; @mare2011; @obrien2023; @pfeffer2018]</small>
 -   Reproduction of the wealth elite

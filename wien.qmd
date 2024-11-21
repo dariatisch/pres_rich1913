@@ -45,7 +45,7 @@ bibliography: references.bib
 
 -   Family as a relevant economic unit <small style="vertical-align: middle;">[@farrell1993a]</small>
 
--   Intergenerational wealth mobility low <small style="vertical-align: middle;">[@hansen2014; @clark2015; @pfeffer2018; @hällsten2020; @toft2022]</small>
+-   Intergenerational wealth mobility low <small style="vertical-align: middle;">[@hansen2014; @clark2015; @pfeffer2018; @hällsten2023; @toft2022]</small>
 
     -   Despite institutional changes: Wealth mobility constant in GB (1858-2012) <small style="vertical-align: middle;">[@clark2015] </small>
 
@@ -63,7 +63,7 @@ What can we learn from previous research on wealth preservation? - Wealth mobili
 
 ## Theoretical background
 
--   Family as a central institution for the reproduction of social inequality <small style="vertical-align: middle;">[@beckert2022; @obrien2023; @pfeffer2018; @tisch2023]</small>
+-   Family as a central institution for the reproduction of social inequality <small style="vertical-align: middle;">[@beckert2022; @mare2011; @obrien2023; @pfeffer2018]</small>
 -   Reproduction of the wealth elite
     -   Direct intergenerational transfers
     -   "Opportunity hoarding" <small style="vertical-align: middle;">[@tilly1998]</small>

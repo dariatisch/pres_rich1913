@@ -28,7 +28,7 @@ bibliography: references.bib
 [So what?]{style="color:#8B0000;font-size: 120%"}
 
 -   Social mobility within the wealt elite: "each class resembles a hotel \[...\] always full, but always of different people" <small style="vertical-align: middle;">[@schumpeter1972]</small>
--   Normative: Performance and not birth should influence wealth position <small style="vertical-align: middle;">[@beckert2018]</small>
+-   Normative: Performance and not birth should influence wealth position
 -   Social cohesion at risk <small style="vertical-align: middle;">[@toft2022]</small>
 -   Social background of wealth elite matters for politics we get <small style="vertical-align: middle;">[@reeves2024]</small>
 :::

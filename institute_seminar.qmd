@@ -22,7 +22,38 @@ slide-number:
 bibliography: references.bib
 ---
 
-## Research question and motivation
+## Motivation
+
+::::: columns
+::: {.column width="50%"}
+![](images/pyramide.webp)
+:::
+
+::: {.column width="50%"}
+-   High levels of wealth inequality<small style="vertical-align: middle;">[@piketty2014]</small>
+-   Wealth is highly concentrated in the hands of a **few families**
+-   Small group with disproportionate amount of political and economic power and social influence
+:::
+:::::
+
+## Research questions in my projects
+
+-   Who are the superrich?
+-   How much social mobility is there within the wealth elite?
+-   What are the mechanisms of wealth perpetuation?
+-   What is the **role of the family** in wealth concentration?
+
+## Overview of research projects
+
+![](images/overview.png)
+
+::: notes
+-   iuse different data sources to understand the role of the family in wealth perpetuation
+-   first, i use tax data to better understand transfer behavior of the wealthy. I show gender differences (men prefer sons in their gift behavior) and show that one-third of estates are made unequally between siblings
+-   second, i use rich lists
+:::
+
+## Dynasties of wealth: The preservation of wealth within families
 
 ::: {style="font-size: 120%"}
 **How do families manage to maintain their position at the top of the wealth distribution over more than a century?**
@@ -32,7 +63,7 @@ bibliography: references.bib
 ::: {.column width="50%"}
 [So what?]{style="color:#8B0000;font-size: 120%"}
 
--   Social mobility within the wealt elite: "each class resembles a hotel \[...\] always full, but always of different people" <small style="vertical-align: middle;">[@schumpeter1972]</small>
+-   Mobility within the wealt elite? "each class resembles a hotel \[...\] always full, but always of different people" <small style="vertical-align: middle;">[@schumpeter1972]</small>
 -   Normative: Performance and not birth should influence wealth position
 -   Social cohesion at risk <small style="vertical-align: middle;">[@toft2022]</small>
 -   Social background of wealth elite matters for politics we get <small style="vertical-align: middle;">[@reeves2024]</small>
@@ -59,17 +90,20 @@ bibliography: references.bib
 
     -   Germany: About 8% of today's 1000 largest fortunes can be traced back to fortunes from the 1913 wealth lists <small style="vertical-align: middle;"> [@tisch2023]</small>
 
-    -   Zurich: About 20% of 1952' top 0.1% have ancestors within top 0.1% in 1890 --\> yearly survival rate of 97.5% (Legentilhomme & Leimgruber, under review)
+    -   Zurich: About 20% of 1952' top 0.1% have ancestors within top 0.1% in 1890, yearly survival rate of 97.5% <small style="vertical-align: middle;"> [@legentilhomme2023]</small> 
 
 → Research gap: Mechanisms of wealth preservation of families, e.g. family ties within the elite
 
 ::: notes
-What can we learn from previous research on wealth preservation? - Wealth mobility is low, especially at the upper and lower ends of the wealth distribution. - Register data (Norway) and survey data (up to three generations). - Rare surnames to estimate wealth mobility over several generations or even centuries. - Clark & Cummins look at wealth mobility in the UK and show that it has remained constant over the last 5 generations despite institutional changes. \[When he groups surnames by wealth level, there is less mobility than when he looks at individual surnames\] - Barone & Mocetti look at the city of Florence and show an enormous persistence in income, wealth and elite occupations between 1427 and 2011. But what are the socio-structural mechanisms of wealth preservation? My contribution: 1. to what extent is there social mobility within the wealth elite in Germany? 2. explain the persistence of wealth through socio-structural factors. 3. family ties within the wealth and political elite 4. by looking at the connection between the wealth elite and the political elite, I also contribute to one of the most important topics of elite literature, namely whether there was a homogeneous elite. 5. shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
+
+What can we learn from previous research on wealth preservation? 
+- Franziska Wiest: managing family feelings plays a critical role in wealth reproduction
+- Wealth mobility is low, especially at the upper and lower ends of the wealth distribution. - Register data (Norway) and survey data (up to three generations). - Rare surnames to estimate wealth mobility over several generations or even centuries. - Clark & Cummins look at wealth mobility in the UK and show that it has remained constant over the last 5 generations despite institutional changes. \[When he groups surnames by wealth level, there is less mobility than when he looks at individual surnames\] - Barone & Mocetti look at the city of Florence and show an enormous persistence in income, wealth and elite occupations between 1427 and 2011. But what are the socio-structural mechanisms of wealth preservation? My contribution: 1. to what extent is there social mobility within the wealth elite in Germany? 2. explain the persistence of wealth through socio-structural factors. 3. family ties within the wealth and political elite 4. by looking at the connection between the wealth elite and the political elite, I also contribute to one of the most important topics of elite literature, namely whether there was a homogeneous elite. 5. shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
 
 ## Reproduction of the wealth elite
 
--   Family as a central institution for the reproduction of social inequality <small style="vertical-align: middle;">[@beckert2022; @mare2011; @obrien2023; @pfeffer2018]</small>
+-   Family as a central institution for the reproduction of social inequality <small style="vertical-align: middle;">[@beckert2022; @wiest2025; @mare2011; @obrien2023; @pfeffer2018]</small>
 -   Reproduction of the wealth elite
     -   Direct intergenerational transfers
     -   "Opportunity hoarding" <small style="vertical-align: middle;">[@tilly1998]</small>
@@ -156,6 +190,19 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 
 ![](images/wikidata_bertha.png){.absolute top="50" left="350" width="50%"}
 
+## Wikidata: Bertha Krupp
+
+<iframe src="https://www.wikidata.org/wiki/Q66505" width="100%" height="500px">
+
+</iframe>
+
+[Bertha Krupp](https://www.wikidata.org/wiki/Q66505)
+
+::: notes
+-   show different example quieries in the wikidata querie service
+-   occupation of Father of father of Bill Gates
+:::
+
 ## Social mobility within the wealth elite
 
 <br>
@@ -178,7 +225,7 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 ![](images/graph1.jpeg){.absolute top="50" left="0" width="100%"}
 
 ::: {style="position: absolute; top: 30%; left: 80%; transform: translate(-50%, -50%); color: white; background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 5px;"}
-(975 Wikidata, 411 relative, 145 largest network)
+(975 Wikidata, 411 relatives, 145 largest network)
 :::
 
 ::: notes
@@ -195,7 +242,7 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 (N = 975 random Germans, same cohort, 5-8 in largest network)
 :::
 
-## Regression results
+## Regression results: Likelyhood to have descendants on todays's rich list
 
 ```{r,echo:false}
 source("D:/Seafile/main/---projects---/rich1913/code/03rich1913_data_analyses.R")
@@ -211,9 +258,25 @@ coefplot
 
 <!-- ::: -->
 
-## Summary
+## Geographical analyses: Berlin
 
--   Social mobility within the wealthy elite
+<iframe src="images/map_berlin.html" width="100%" height="800px">
+
+</iframe>
+
+```{r}
+
+
+# library(leaflet)
+# 
+# leaflet() %>%
+#   addTiles() %>%  # Add default OpenStreetMap map tiles
+#   addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
+```
+
+## Conclusion
+
+-   Social mobility within the wealth elite
 
     -   10 % of the 875 richest people in 1913 have descendants on the rich list 2019
 
@@ -265,22 +328,6 @@ dariatisch.github.io
 
 -   shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
-
-## Geographical analyses
-
-<iframe src="images/map_berlin.html" width="100%" height="800px">
-
-</iframe>
-
-```{r}
-
-
-# library(leaflet)
-# 
-# leaflet() %>%
-#   addTiles() %>%  # Add default OpenStreetMap map tiles
-#   addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
-```
 
 ## Regression analyses
 

@@ -1,5 +1,5 @@
 ---
-title: "Dynasties of wealth:  <br> Family networks and wealth preservation"
+title: "Dynasties of wealth:  <br> The preservation of wealth within families" 
 author: "Daria Tisch  <br>  <br> 22 November 2024 <br>  <br> <br>  Max Planck Institute for the Study of Societies <br> " 
 #subtitle:  
 format: 
@@ -151,7 +151,7 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 
 ![](images/wikidata_bertha.png){.absolute top="50" left="350" width="50%"}
 
-## Social mobility within the wealthy elite
+## Social mobility within the wealth elite
 
 <br>
 

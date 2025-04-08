@@ -10,7 +10,7 @@ format:
       boardmarker-width: 5
     title-slide-attributes:
       data-background-image: "images/Designer.jpeg"
-      data-background-size: "contain"  # or "cover"
+      data-background-size: "cover"  # or "contain"
       data-background-opacity: "0.2"   # adjust transparency
       data-background-position: "right"
   gfm:

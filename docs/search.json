@@ -530,5 +530,12 @@
     "title": "Dynasties of wealth:  The preservation of wealth within families",
     "section": "Regression analyses",
     "text": "Regression analyses\n\n\n\n\n\n \nM1\nM2\nM3\nM4\n\n\nPredictors\nOdds Ratios\nOdds Ratios\nEstimates\nEstimates\n\n\nCloseness to rich\n1.01 **\n\n0.00 **\n\n\n\nEigen centrality\n\n1.30 **\n\n0.05 ***\n\n\nBusiness elite\n1.53 *\n1.65 *\n0.02 *\n0.03 *\n\n\nPolitican in family\n1.17 \n1.03 \n0.01 \n-0.00 \n\n\nLog. wealth\n1.73 ***\n1.73 ***\n0.05 ***\n0.05 ***\n\n\nNobility\n2.43 ***\n2.13 ***\n0.06 ***\n0.05 ***\n\n\nMale\n0.62 *\n0.65 \n-0.03 *\n-0.03 \n\n\nRegion still Germany\n6.91 ***\n6.55 ***\n0.07 ***\n0.07 ***\n\n\nObservations\n2520\n2520\n2520\n2520\n\n\nR2 Tjur\n0.048\n0.054\n0.044 / 0.041\n0.053 / 0.050\n\n\n* p&lt;0.05   ** p&lt;0.01   *** p&lt;0.001"
+  },
+  {
+    "objectID": "institute_seminar.html#data-and-methods-1",
+    "href": "institute_seminar.html#data-and-methods-1",
+    "title": "Dynasties of wealth:  The preservation of wealth within families",
+    "section": "Data and methods",
+    "text": "Data and methods\n\nData\n\nRudolf Martin rich list, 1913\n\n&gt;2 Mio: N = 4574 richest individuals (top 0.007% of the population)\n&gt;3 Mio: N = 2520 richest individuals (top 0.003% of population)\n\nVariables:\n\nstill rich today (Manager Magazin List 2019, top 0.01%)\nPolitician or related to politician (members of parliament)\nPart of the economic elite (Windolf und Marx)\nCloseness and eigen centrality (geneological Wikidata)\n\n\nMethods\n\nNetwork analyses\nRegression analyses\n\n\n\nFor the network analysis, I linked the data set of the rich and the data set of the politicians with Wikidata and scraped all direct relatives. To test my hypotheses, I run logistic regressions, since my dependent variable is binary.\nPopulation 1913: 67 million today, germany: 42 million: top 1031 fortunes –&gt; 4000 households: 0.01%"
   }
 ]

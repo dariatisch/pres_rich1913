@@ -12,7 +12,7 @@ format:
       data-background-image: "images/Designer.jpeg"
       data-background-size: "cover"  # or "contain"
       data-background-opacity: "0.2"   # adjust transparency
-      data-background-position: "right"
+      data-background-position: "center"
   gfm:
     mermaid-format: svg
 editor: visual
@@ -133,6 +133,8 @@ What can we learn from previous research on wealth preservation?
 -   Hypotheses - argument: strategic alliances are necessary to maintain the position at the top of the wealth distribution. - Good family network. Just as a good network is important for an individual to accumulate wealth over the course of their life, I expect that it is also important for families to have a good family network. - "imprinting effect" of belonging to the core of the elite. - Qualitative studies such as Betty Farrell's for Boston in the 19th century point to the importance of the family network. And I would like to look at whether a good family network at the beginning of the 20th century has long-term consequences. - What is the imprinting effect? Name? - The imprinting effect is a positive correlation between the level of wealth and the chances of wealth preservation. Charles Wright Mills argues in his book "The power elite" that wealth brings with it an accumulation advantage. The more strategic the economic position and the richer a person is, the easier it is to accumulate even more wealth: "The more he has, the greater his credit"
 :::
 
+# Data and methods
+
 ## Data basis {.scrollable}
 
 ::::: columns
@@ -202,6 +204,8 @@ Population 1913: 67 million today, germany: 42 million: top 1031 fortunes --\> 4
 -   show different example quieries in the wikidata querie service
 -   occupation of Father of father of Bill Gates
 :::
+
+# Findings
 
 ## Social mobility within the wealth elite
 
@@ -349,6 +353,9 @@ dariatisch.github.io
 
 -   shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
+
+
+# Appendix
 
 ## Regression analyses
 

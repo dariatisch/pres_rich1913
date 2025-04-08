@@ -258,6 +258,19 @@ coefplot
 
 <!-- ::: -->
 
+## Geographical analyses: Cologne
+
+<iframe src="images/map_cologne.html" width="100%" height="800px">
+
+</iframe>
+
+
+## Geographical analyses: Hamburg
+
+<iframe src="images/map_Hamburg.html" width="100%" height="800px">
+
+</iframe>
+
 ## Geographical analyses: Berlin
 
 <iframe src="images/map_berlin.html" width="100%" height="800px">
@@ -273,6 +286,14 @@ coefplot
 #   addTiles() %>%  # Add default OpenStreetMap map tiles
 #   addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
 ```
+
+
+## Regression analyses
+
+```{r}
+region_models
+```
+
 
 ## Conclusion
 

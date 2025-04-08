@@ -417,7 +417,7 @@
     "href": "institute_seminar.html#regression-analyses",
     "title": "Dynasties of wealth:  The preservation of wealth within families",
     "section": "Regression analyses",
-    "text": "Regression analyses\n\n\n\n\n\n \nM1\nM2\nM3\nM4\n\n\nPredictors\nOdds Ratios\nOdds Ratios\nEstimates\nEstimates\n\n\nCloseness to rich\n1.01 **\n\n0.00 **\n\n\n\nEigen centrality\n\n1.30 **\n\n0.05 ***\n\n\nBusiness elite\n1.53 *\n1.65 *\n0.02 *\n0.03 *\n\n\nPolitican in family\n1.17 \n1.03 \n0.01 \n-0.00 \n\n\nLog. wealth\n1.73 ***\n1.73 ***\n0.05 ***\n0.05 ***\n\n\nNobility\n2.43 ***\n2.13 ***\n0.06 ***\n0.05 ***\n\n\nMale\n0.62 *\n0.65 \n-0.03 *\n-0.03 \n\n\nRegion still Germany\n6.91 ***\n6.55 ***\n0.07 ***\n0.07 ***\n\n\nObservations\n2520\n2520\n2520\n2520\n\n\nR2 Tjur\n0.048\n0.054\n0.044 / 0.041\n0.053 / 0.050\n\n\n* p&lt;0.05   ** p&lt;0.01   *** p&lt;0.001"
+    "text": "Regression analyses\n\n\n\n\n\n\n\n\n\n\n\n \nM1\nM2\nM3\n\n\nPredictors\nOdds Ratios\nOdds Ratios\nOdds Ratios\n\n\nnumber of rich neighbors,\n500m\n0.99 **\n\n\n\n\nNobility\n2.20 **\n2.35 ***\n2.35 ***\n\n\nBusiness elite\n2.24 **\n2.28 ***\n2.27 ***\n\n\nLog. wealth\n2.69 ***\n2.60 ***\n2.65 ***\n\n\nMale\n0.45 **\n0.45 **\n0.44 **\n\n\nhas_rich_neighbors\n\n0.89 \n\n\n\n&gt;5 rich neighbors\n\n\n0.69 \n\n\nObservations\n2704\n2704\n2704\n\n\nR2 Tjur\n0.065\n0.060\n0.061\n\n\n* p&lt;0.05   ** p&lt;0.01   *** p&lt;0.001"
   },
   {
     "objectID": "institute_seminar.html#descriptive-statistics",
@@ -509,5 +509,26 @@
     "title": "Dynasties of wealth:  The preservation of wealth within families",
     "section": "Dynasties of wealth: The preservation of wealth within families",
     "text": "Dynasties of wealth: The preservation of wealth within families\n\nHow do families manage to maintain their position at the top of the wealth distribution over more than a century?\n\n\n\nSo what?\n\nMobility within the wealt elite? “each class resembles a hotel […] always full, but always of different people” (Schumpeter 1972)\nNormative: Performance and not birth should influence wealth position\nSocial cohesion at risk (Toft and Hansen 2022)\nSocial background of wealth elite matters for politics we get (Reeves and Friedman 2024)\n\n\n\n\n\n\nLarger project describing the super-rich in Germany - Article 1: Today’s super-rich - Historical projects, wealth accumulated partly over several generations - New project: how families manage to maintain their position at the top of the wealth distribution over more than 100 years. I am interested in the influence of social structure and in particular how family relationships and membership of the aristocracy contribute to the preservation of wealth. - Why is it relevant to look at whether and how the wealth elite maintains its position over a century? - 1. to understand the role of the family as an economic unit. Does the family play a relevant role in the (re)production of wealth and the wealth elite? - 2. normative justification. Meritocracy: merit, not birth, determines position in wealth distribution. - 3.economic resources distributed inefficiently. no personal change within the elite–&gt; social closure–&gt; no longer understands social problems and thus jeopardises social cohesion."
+  },
+  {
+    "objectID": "institute_seminar.html#geographical-analyses-cologne",
+    "href": "institute_seminar.html#geographical-analyses-cologne",
+    "title": "Dynasties of wealth:  The preservation of wealth within families",
+    "section": "Geographical analyses: Cologne",
+    "text": "Geographical analyses: Cologne"
+  },
+  {
+    "objectID": "institute_seminar.html#geographical-analyses-hamburg",
+    "href": "institute_seminar.html#geographical-analyses-hamburg",
+    "title": "Dynasties of wealth:  The preservation of wealth within families",
+    "section": "Geographical analyses: Hamburg",
+    "text": "Geographical analyses: Hamburg"
+  },
+  {
+    "objectID": "institute_seminar.html#regression-analyses-1",
+    "href": "institute_seminar.html#regression-analyses-1",
+    "title": "Dynasties of wealth:  The preservation of wealth within families",
+    "section": "Regression analyses",
+    "text": "Regression analyses\n\n\n\n\n\n \nM1\nM2\nM3\nM4\n\n\nPredictors\nOdds Ratios\nOdds Ratios\nEstimates\nEstimates\n\n\nCloseness to rich\n1.01 **\n\n0.00 **\n\n\n\nEigen centrality\n\n1.30 **\n\n0.05 ***\n\n\nBusiness elite\n1.53 *\n1.65 *\n0.02 *\n0.03 *\n\n\nPolitican in family\n1.17 \n1.03 \n0.01 \n-0.00 \n\n\nLog. wealth\n1.73 ***\n1.73 ***\n0.05 ***\n0.05 ***\n\n\nNobility\n2.43 ***\n2.13 ***\n0.06 ***\n0.05 ***\n\n\nMale\n0.62 *\n0.65 \n-0.03 *\n-0.03 \n\n\nRegion still Germany\n6.91 ***\n6.55 ***\n0.07 ***\n0.07 ***\n\n\nObservations\n2520\n2520\n2520\n2520\n\n\nR2 Tjur\n0.048\n0.054\n0.044 / 0.041\n0.053 / 0.050\n\n\n* p&lt;0.05   ** p&lt;0.01   *** p&lt;0.001"
   }
 ]

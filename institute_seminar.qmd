@@ -22,6 +22,10 @@ slide-number:
 bibliography: references.bib
 ---
 
+# Imagine the 1000 richest people in Germany in 1913.
+
+How many of them do you think have descendants who are on the rich list today?
+
 ## Motivation
 
 ::::: columns
@@ -53,7 +57,7 @@ bibliography: references.bib
 -   second, i use rich lists
 :::
 
-## Dynasties of wealth: The preservation of wealth within families
+## Dynasties of wealth: The preservation of wealth within families {.smaller}
 
 ::: {style="font-size: 120%"}
 **How do families manage to maintain their position at the top of the wealth distribution over more than a century?**
@@ -78,7 +82,7 @@ bibliography: references.bib
 -   Larger project describing the super-rich in Germany - Article 1: Today's super-rich - Historical projects, wealth accumulated partly over several generations - New project: how families manage to maintain their position at the top of the wealth distribution over more than 100 years. I am interested in the influence of social structure and in particular how family relationships and membership of the aristocracy contribute to the preservation of wealth. - Why is it relevant to look at whether and how the wealth elite maintains its position over a century? - 1. to understand the role of the family as an economic unit. Does the family play a relevant role in the (re)production of wealth and the wealth elite? - 2. normative justification. Meritocracy: merit, not birth, determines position in wealth distribution. - 3.economic resources distributed inefficiently. no personal change within the elite--\> social closure--\> no longer understands social problems and thus jeopardises social cohesion.
 :::
 
-## Previous research
+## Previous research {.smaller}
 
 -   Family as a relevant economic unit <small style="vertical-align: middle;">[@farrell1993a]</small>
 
@@ -90,21 +94,19 @@ bibliography: references.bib
 
     -   Germany: About 8% of today's 1000 largest fortunes can be traced back to fortunes from the 1913 wealth lists <small style="vertical-align: middle;"> [@tisch2023]</small>
 
-    -   Zurich: About 20% of 1952' top 0.1% have ancestors within top 0.1% in 1890, yearly survival rate of 97.5% <small style="vertical-align: middle;"> [@legentilhomme2023]</small> 
+    -   Zurich: About 20% of 1952' top 0.1% have ancestors within top 0.1% in 1890, yearly survival rate of 97.5% <small style="vertical-align: middle;"> [@legentilhomme2023]</small>
 
 → Research gap: Mechanisms of wealth preservation of families, e.g. family ties within the elite
 
 ::: notes
-
-What can we learn from previous research on wealth preservation? 
-- Franziska Wiest: managing family feelings plays a critical role in wealth reproduction
-- Wealth mobility is low, especially at the upper and lower ends of the wealth distribution. - Register data (Norway) and survey data (up to three generations). - Rare surnames to estimate wealth mobility over several generations or even centuries. - Clark & Cummins look at wealth mobility in the UK and show that it has remained constant over the last 5 generations despite institutional changes. \[When he groups surnames by wealth level, there is less mobility than when he looks at individual surnames\] - Barone & Mocetti look at the city of Florence and show an enormous persistence in income, wealth and elite occupations between 1427 and 2011. But what are the socio-structural mechanisms of wealth preservation? My contribution: 1. to what extent is there social mobility within the wealth elite in Germany? 2. explain the persistence of wealth through socio-structural factors. 3. family ties within the wealth and political elite 4. by looking at the connection between the wealth elite and the political elite, I also contribute to one of the most important topics of elite literature, namely whether there was a homogeneous elite. 5. shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
+What can we learn from previous research on wealth preservation? - Franziska Wiest: managing family feelings plays a critical role in wealth reproduction - Wealth mobility is low, especially at the upper and lower ends of the wealth distribution. - Register data (Norway) and survey data (up to three generations). - Rare surnames to estimate wealth mobility over several generations or even centuries. - Clark & Cummins look at wealth mobility in the UK and show that it has remained constant over the last 5 generations despite institutional changes. \[When he groups surnames by wealth level, there is less mobility than when he looks at individual surnames\] - Barone & Mocetti look at the city of Florence and show an enormous persistence in income, wealth and elite occupations between 1427 and 2011. But what are the socio-structural mechanisms of wealth preservation? My contribution: 1. to what extent is there social mobility within the wealth elite in Germany? 2. explain the persistence of wealth through socio-structural factors. 3. family ties within the wealth and political elite 4. by looking at the connection between the wealth elite and the political elite, I also contribute to one of the most important topics of elite literature, namely whether there was a homogeneous elite. 5. shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
 
-## Reproduction of the wealth elite
+## Reproduction of the wealth elite {.smaller}
 
 -   Family as a central institution for the reproduction of social inequality <small style="vertical-align: middle;">[@beckert2022; @wiest2025; @mare2011; @obrien2023; @pfeffer2018]</small>
 -   Reproduction of the wealth elite
+    -   Education <small style="vertical-align: middle;">[@lillie2020]</small>
     -   Direct intergenerational transfers
     -   "Opportunity hoarding" <small style="vertical-align: middle;">[@tilly1998]</small>
     -   Social closure through marriage <small style="vertical-align: middle;">[@farrell1993]</small>
@@ -165,7 +167,7 @@ What can we learn from previous research on wealth preservation?
 The yearbook of the wealth and income of billionaires by Rudolf Martin (Prussia) serves as my data basis. - How to get in touch with Rudolf Martin - Manager Magazin - Verknüpfung wie? - Explain Wikidata
 :::
 
-## Data and methods
+## Data and methods {.smaller}
 
 -   Data
     -   Rudolf Martin rich list, 1913
@@ -268,7 +270,6 @@ coefplot
 
 </iframe>
 
-
 ## Geographical analyses: Hamburg
 
 <iframe src="images/map_Hamburg.html" width="100%" height="800px">
@@ -291,15 +292,13 @@ coefplot
 #   addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
 ```
 
-
-## Regression analyses
+## Regression analyses {.smaller}
 
 ```{r}
 region_models
 ```
 
-
-## Conclusion
+## Conclusion {.smaller}
 
 -   Social mobility within the wealth elite
 
@@ -311,9 +310,9 @@ region_models
 
     -   Connections to the business elite
 
-    -   Being Politican irrelevant?
-
     -   Family networks of the super-rich
+
+    -   Being Politican and rich neighborhood irrelevant?
 
 -   Next steps
 
@@ -353,7 +352,6 @@ dariatisch.github.io
 
 -   shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
-
 
 # Appendix
 
